@@ -1,0 +1,13 @@
+IA usada: Claude AI
+
+Primer prompt: necesito que me hagas un trifolio pero acerca de la computadora y como hacer mantenimiento a una, 
+puedes usar como ejemplo una laptop. En una página que tenga la definición de que es una computadora, 
+en otra información acerca de las partes básicas de la computadora, en otro que tenga algunos de los elementos básicos para realizar el mantenimiento, 
+y el resto que sea para los pasos más básicos del mantenimiento y más información. 
+No tiene que ser super específico, solo informativo y que dé una idea general acerca de el mantenimiento de una computadora.
+
+
+Segundo prompt (hecho en el mismo chat, luego de la respuesta de Claude): Perfecto, ahora, en base a la información que contiene el trifoliar, 
+podrias generar un manual acerca del mantenimiento de una computadora? 
+Procura que sea un poco mas extendido pero no tan extenso. 
+Que sea profesional y que además pueda dar una idea un poco mas clara de como hacer el mantenimiento a una computadora, y lo necesario para hacerlo.
